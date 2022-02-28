@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Queene Elizabeths bishops or, a briefe declaration of the wickednesse of the generality of those bishops of England that lived in the purest times of King Edward the sixth, and Queen Eiizabeth [sic], and some things concerning ours. Writ of purpose to keepe the Kings good subjects from being cheated of their loyalty, honesty, peace, wealth, religion, God and salvation, all which they had like to have lost of late.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91581</idno>
+            <idno type="STC">Wing Q152</idno>
+            <idno type="STC">Thomason E180_23</idno>
+            <idno type="STC">ESTC R12758</idno>
+            <idno type="EEBO-CITATION">99859334</idno>
+            <idno type="PROQUEST">99859334</idno>
+            <idno type="VID">111408</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91581)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111408)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E180[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Queene Elizabeths bishops or, a briefe declaration of the wickednesse of the generality of those bishops of England that lived in the purest times of King Edward the sixth, and Queen Eiizabeth [sic], and some things concerning ours. Writ of purpose to keepe the Kings good subjects from being cheated of their loyalty, honesty, peace, wealth, religion, God and salvation, all which they had like to have lost of late.</title>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Bishops --  Early works to 1800.</term>
+               <term>Episcopacy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:111408:1"/>
+            <figure>
+               <figDesc>Men sowing and reaping; a man threshing and a woman sifting; a woman cooking and a man drinking ale; a man gleaning and a woman sweeping.</figDesc>
+               <p>The Rebels hanging a ſhepheard up by the thumbs.</p>
+               <p>The Rebels being drinking, each man ſlew his fellow.</p>
+            </figure>
+            <figure>
+               <figDesc>stylized section of a tree</figDesc>
+            </figure>
+            <pb facs="tcp:111408:1" rendition="simple:additions"/>
+            <p>
+               <hi>QVEENE</hi> ELIZABETHS BISHOPS: <hi>OR,</hi> A BRIEFE DECLARATION OF THE WICKEDNESSE OF THE GENE<g ref="char:EOLhyphen"/>rality of thoſe Biſhops of ENGLAND that lived in the pureſt times of King <hi>EDWARD</hi> the ſixth, and Queen EIIZABETH, and ſome things concerning ours.</p>
+            <p>
+               <hi>WRIT</hi> OF PURPOSE TO KEEPE THE KINGS GOOD SUBJECTS FROM BE<g ref="char:EOLhyphen"/>ing cheated of their Loyalty, Honeſty, Peace, Wealth, Religion, God and Salvation, all which they <hi>had like to have loſt of late.</hi>
+            </p>
+            <p>LONDON, PRINTED 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:111408:2"/>
+            <pb n="1" facs="tcp:111408:2"/>
+            <p>
+               <seg rend="decorInit">T</seg>He Worke of the begun Reformation in K. <hi>Edward</hi> the Sixths dayes, was a glo<g ref="char:EOLhyphen"/>rious Worke of the All-glorious God, by the inſtrument of men; and ſuch a Worke hath crowned the names of the Inſtruments thereof with eternall ho<g ref="char:EOLhyphen"/>nour: but who were they? not thoſe that pretended to be the onely Fathers and Builders of the Houſe of God: the Biſhops they had pulled it downe, and laid Jeruſa<g ref="char:EOLhyphen"/>lem waft: and when the foundation of a true Church began to be laid, they were againſt it might and maine: witneſſe <hi>Martin Bucer</hi> in a Speech of his to King <hi>Ed<g ref="char:EOLhyphen"/>ward:</hi> 
+               <note place="margin">Martin Bu<g ref="char:EOLhyphen"/>cer de regno Chriſti. <hi>lib. 2. cap. 1.</hi>
+               </note>
+               <q rend="margQuotes">Your Majeſtie (ſaith he) doth ſee that this reſtoring againe the Kingdome of Chriſt which we re<g ref="char:EOLhyphen"/>quire, yea which the ſalvation of us all requireth, may in no wife be expected to come of the Biſhops, ſeeing there be ſo few among them, which doe under<g ref="char:EOLhyphen"/>ſtand the power and proper Offices of this King<g ref="char:EOLhyphen"/>dome, and very many of them by all meanes (which poſſibly they can and dare) either oppoſe themſelves againſt it, or deferre and hinder it.</q> And had not King <hi>Edward,</hi> though young, ſet his heart for Refor<g ref="char:EOLhyphen"/>mation more than all, yea then the beſt of the Biſhops, it had never proceeded ſo farre as it did: when <hi>Cranmer</hi> and <hi>Ridly</hi> preſſing him to permit his Siſter the Lady <hi>Mary</hi> to have Maſſe in her houſe: the King having heard what they could ſay, replied out of the Scriptures ſo fully, that they were inforced to give place to his Re<g ref="char:EOLhyphen"/>plication, and grant the ſame to be true: Then they after long debatings with his Majeſtie in this manner, la<g ref="char:EOLhyphen"/>boured politiquely in another ſort, and alledged what
+<pb n="2" facs="tcp:111408:3"/>dangers the denying thereof might bring to his grace, what breach of amity on the Emperours part, what troubles, what unkindneſſes, and what occaſions ſundry wayes it would inforce unto? whom the King anſwered, willing them to content themſelves, for hee would hee ſaid, ſpend his life and all he had, rather than to agree, and grant to that he knew to be againſt the truth: the which when the Biſhops heard, notwithſtand<g ref="char:EOLhyphen"/>ing they urged him ſtill to grant, and would by no meanes have his nay: then the good King ſeeing their importunate ſuite: in the end his tender heart bur<g ref="char:EOLhyphen"/>ſting out into bitter weepings and ſobbing, hee deſired them to be content, whereat the Biſhops wept as faſt as he, and acknowledged the good King had more divini<g ref="char:EOLhyphen"/>ty in his little finger than they had in all their bodies <hi>Fox, Acts Mon. p.</hi> 653. <hi>Edit.</hi> 1631.</p>
+            <p>Almoſt all of the Biſhops, all King <hi>Edwards</hi> Reigne, even after Reformation, were baſe deſſembling Hipo<g ref="char:EOLhyphen"/>crites, Popiſh, Atheſticall fellowes, for though they made a ſhew of true Religion, all while that good King was living, yet when Queene <hi>Mary</hi> ſurvived, they all turned bloody perſecuting Papiſts, except <hi>Hooker, Ridly, Frarrer,</hi> and <hi>Cranmer.</hi> The unholy men of that unholy Order of Biſhops were ſuch inhumane, beaſtly-caniball-blood-ſucking-perſecutors of the true profeſſors of Chriſts Goſpell in Queen <hi>Maries</hi> Time, that they made themſelves drunke with the blood of many of our great Grandfathers, and great Grandmothers, which yet cries to God for vengeance, either upon the Biſhops and Pa<g ref="char:EOLhyphen"/>piſts, who were the ſpoilers of it, or elſe upon the Land for omitting in a Parliamentary way the execution of it.</p>
+            <p>Thus you have ſeene what manner of creatures the Biſhops in King <hi>Edward</hi> the Sxiths time were. Now to declare what the Biſhops of Queene <hi>Elizabeths</hi> time of Ever-bleſſed Memory were too: I thought good to cauſe to be Reprinted an Epiſtle of many Reverend
+<pb n="3" facs="tcp:111408:3"/>and learned Divines and Gentlemen of thoſe times, viz. Mr. <hi>Vdall,</hi> Mr. <hi>Penry,</hi> Mr. <hi>Cartwright,</hi> Mr <hi>King,</hi> Mr. <hi>Prudler,</hi> Mr. <hi>Paine,</hi> Mr. <hi>Knightly,</hi> Mr. <hi>Wigston,</hi> and others, to the then Biſhops of England <hi>verbatim</hi> to a Coppy I have by me in Print, Printed long agoe, with<g ref="char:EOLhyphen"/>out adding or diminiſhing a word, wherein they are no<g ref="char:EOLhyphen"/>tably ſet out to the Life.</p>
+            <floatingText type="letter">
+               <body>
+                  <head>TO THE SUPPOSED GOVERNOURS Of the Church of ENGLAND, the <hi>Archbiſhops, Lord Biſhops, Archdeacons, and the reſt of that order.</hi>
+                  </head>
+                  <p>MAny and moſt evident have our declarations been con<g ref="char:EOLhyphen"/>cerning the truth of that government which Chriſt hath preſcribed in his Word for the ruling of the Church, which we have manifeſted unto you, both by our writings and ſpeeches, as occaſion hath been offered: Never hath any one of you taken in hand to ſay any thing againſt it, but it hath made his eyes to dazle as the cleareſt Sunſhine, whereby he hath been driven to wander hither and thither, groping for evaſi<g ref="char:EOLhyphen"/>ons, and yet could not eſcape, but hath fallen into infinite moſt monſtrous abſurdities, and blaſphemous aſſertions, (as by their writings yet extant may appeare) ſo forcible is the truth to amaze the gainſayers thereof, and ſo pregnant is falſhood to beget and bring forth thouſands of abſurdities, and every one worſe then other. And will you ſtill continue in your damna<g ref="char:EOLhyphen"/>ble, and moſt devilliſh courſe? Have you ſold your ſelves un<g ref="char:EOLhyphen"/>to Satan, to fight for him untill you be damned in hell with him? Have you morgaged the ſalvation of your ſoules and bodies, for the preſent fruition of your pompe and pleaſure? is it becauſe you ſee not what you ſhould doe? It may be ſo, for many are ſo blinde, that they grope even at noon day. but
+<pb n="4" facs="tcp:111408:4"/>me thinkes it can hardly be ſo, unleſſe you be they that have eyes and ſee not, for the cauſe hath been (by the bleſſing of God) ſo managed, that many Ploughmen, Artiſicers, and children doe ſee it, and know it, and are able by the Word of God to iuſtifie it, and condemne you to be adverſaries unto the Goſpell in reſiſting it. But you thinke that government not ſo needfull, and your fault but ſmall (if it be any) in continuing your courſe begun. The neceſſity of the thing to many wayes apparent, both in that it hath ſo plentifull warrant from Gods owne Word, (as the courſe of this booke doth evidently de<g ref="char:EOLhyphen"/>clare) and alſo in that the Goſpell can take no roote, nor have any free paſſage for want of it: And the greatneſſe of your fault appeareth by this, that in ſo doing you are the cauſe of all the Ignorance, Atheiſme, Schiſmes, Treaſons, Popery and un<g ref="char:EOLhyphen"/>godlineſſe that is to be found in this Land, which we challenge to prove to your faces, if we may indifferently be heard, and whereof in the meane while we will give you a taſte: For the firſt it is cleare, that you are the cauſers of that damnable ig<g ref="char:EOLhyphen"/>norance, wherein the people are ſo generally wrapped, for that you have from time to time ſtopped the ſtreames of knowledge in thoſe places where the Lord in mercy beſtowed the ſame, and inſtead of able and painfull Miniſters, have peſtered the Church, either with preſumptuous proud perſons, that are eſteemed learned, and take no paines to bring the people unto the knowledge of Ieſus Chriſt, or (which is the greateſt num<g ref="char:EOLhyphen"/>ber) ſuch ignorant aſſes, and filthy ſwine, as are not worthy to live in a well ordered Common-wealth: And that you are the cauſe of all Atheiſme, it is plaine, for one may (as indeed ma<g ref="char:EOLhyphen"/>ny doe) profeſſe it, and you ſay nothing to him for it. If the moſt filthy liver will fawne upon you, and bribe your ſervants, you will not only favour him, but aſſiſt him againſt any godly Miniſter or other: but if any that feare God, refuſe to come under the leaſt of your Popiſh ceremonies, he ſhall be moleſted, till his purſe be empty, or elſe by your traiterous dealing hee have made ſhipwracke of a good conſcience. And are not you the cauſe of all Schiſmes, that make a hotch-potch of true Re<g ref="char:EOLhyphen"/>ligion
+<pb n="5" facs="tcp:111408:4"/>and Popery, and ſo give ſome an occaſion to fall into this courſe, and others into that? And it is as cleare, that you are ſo far the cauſe of all Treaſons, as without you they had not been: For if every Church had had her government according to Chriſts inſtitution, our young Gentlemen, and Students had not been (for want of teaching and carefull overſight) made a prey unto the ſeducers, and conſequently to thoſe practiſes which have brought the bodies of ſo many unto Tiburne, and their ſoules into hell: And who but you be the cauſe of Popery, whileſt you uſe them ſo well, let them doe what they liſt, yea, and keep them in office and authority under you, yea, (which more is) give them ſuch offices as none that is not Popiſh can execute: I ſpeake not of the ignorance which by your meanes raigneth every where, which (as they confeſſe) is the mother of their devotion, and you are the wretched fathers of that fil<g ref="char:EOLhyphen"/>thy mother, whereby you muſt needs be grandfathers (at the leaſt) to all kinde of Popery. <note place="margin">Omnia cum liceant, non licet eſſe bo<g ref="char:EOLhyphen"/>num.</note>And who can (without bluſhing) deny you to be the cauſe of all ungodlineſſe, ſeeing your govern<g ref="char:EOLhyphen"/>ment is that which giveth leave to a man to be any thing, ſa<g ref="char:EOLhyphen"/>ving a ſound Chriſtian. For certainly it is more free in theſe dayes, to be a Papiſt, Anabaptiſt, of the Family of love, yea, any moſt wicked one whatſoever, then that which we ſhould be, and I could live theſe twenty yeares any ſuch in England (yea, in a Biſhops houſe it may be) and never be much mo<g ref="char:EOLhyphen"/>leſted for it: ſo true is that which you are charged with, in a Dialogue lately come forth againſt you, and ſince burned by you, that you care for nothing but the maintenance of your dignities, be it to the damnation of your owne ſoules, and infi<g ref="char:EOLhyphen"/>nite millions more: Enter therefore now at the laſt into the ſerious conſid<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ration of theſe things: remember that one day you muſt be preſented before the Tribunal ſeat of Ieſus Chriſt, to be arraigned for all the ſoules that have gone to hell (ſeeing you will needs be the rulers of the Church) ſince the Goſpel firſt appeared in this Land, then ſhall you not be excuſed with this, the Queene and Councell will have it ſo: nor with that, our State cannot beare it. For it ſhall be ſaid unto you, why doe
+<pb n="6" facs="tcp:111408:5"/>you not informe them better of my will, why taught you them not to worſhip with trembling and feare, and to kiſſe the Son leſt he be angry? Why did you not tell them, that all States muſt be ruled by my Word, and not my Word by them and their policies? When theſe things ſhall be laid to your charge, your conſciences ſhall anſwer, that if you had done ſo, you ſhould have loſt your dignities, which you loved and ſought for eſpecially: Then ſhall you wiſh that the Mountaines would fall upon you, and the hills cover you from the preſence of the Lamb, and from the preſence of him that ſitteth upon the Throne. And I am perſwaded that you are in league with hell, and have made a covenant with death: yea, you doe per<g ref="char:EOLhyphen"/>ſwade your ſelves that there is no God, neither ſhall there be any ſuch day of account: or it were impoſſible that you ſhould give your eyes any ſleep, or take any reſt in your beds, untill you had unto the Lord by repentance, and the Church by con<g ref="char:EOLhyphen"/>feſſion, unburdened your ſoules of theſe helliſh wayes wherein you have ſo long walked. Repent, repent, be not aſhamed to amend, though others have found you out the way, iudge your ſelves while you have time, leſt you be made firebrands of hell beyond all time. Let our challenges that we have made in the name of the Lord be hearkened unto: Let us be diſputed with before indifferent Iudges, let the holy word of God be the touch<g ref="char:EOLhyphen"/>ſtone to trie our dſiputaitons by, and then ſhall it eaſily appeare who hath the Lord on his ſide, and who not. The truth will pre<g ref="char:EOLhyphen"/>vaile in ſpite of your teeth, and all other adverſaries unto it, (for God diſdaineth to be croſſed by duſt and aſhes.) There<g ref="char:EOLhyphen"/>fore be not obſtinate ſo long, as untill you be found fighters with God, but prevent his wrath, leſt it breake forth againſt you like fire that none can quench, becauſe of the wickedneſſe of your inventions. Venture your Biſhoprickes upon a diſputati<g ref="char:EOLhyphen"/>on, and we will venture our lives, take the challenge if you dare: if the truth be on your ſide, you may hereby be reſtored to your dignities, and be no more troubled by us: but if the truth be againſt you, what ſhall it profit you to win the whol-world, and afterwards loſe your owne ſoules. If you refuſe ſtill our
+<pb n="7" facs="tcp:111408:5"/>offer, then muſt you needs be guilty either of this, that you know your cauſe will not abide the tryall, or of this, that you will take no paines to confute us that keep ſuch a ſtir in the Church: doe not thinke that becauſe you have humane autho<g ref="char:EOLhyphen"/>rity on your ſide, therefore you are ſafe, for he whoſe authority is on our ſide, is the greateſt, to whoſe voice all the devils in hell ſhall ſtoope, much more the ſilly arme of ſinfull fleſh. We have ſought to advance this cauſe of God by humble ſuit to the Par<g ref="char:EOLhyphen"/>liament, by ſupplication to your Convocation houſe, by writing in defence of it, and by challenging to diſpute for it, ſeeing none of theſe meanes uſed by us have prevailed: If it come in by that meanes, which will make all your hearts to ake, blame your ſelves, for it muſt prevaile, maugre the malice of all that ſtand againſt it, or ſuch a iudgement muſt overtake this Land as ſhall cauſe the eares that heare thereof to tingle, and make us be a by-word to all that paſſe by us. The Lord open your eyes, that you may ſee the confuſions whereof you are the cauſe, and give you true repentance, or confound you in all your pur<g ref="char:EOLhyphen"/>poſes that be againſt him and the regiment of his Son Ieſus Chriſt. The ſame Lord for the love he beareth to his poore people, open the eyes of her Maieſtie, and the honourable Councellors, that they may ſee your godleſſe practiſes, and in pitty to Gods people, rid us from you, and turne away his iudgements, which the reiecting of his holy yoke hath deſerved, not puniſhing them that mourne for the deſolation of Sion, with thoſe that ſpoile and make havocke of the Lords Inheritance, <hi>Amen.</hi>
+                  </p>
+                  <trailer>The end of the Epiſtle.</trailer>
+               </body>
+            </floatingText>
+            <div type="supporting_evidence">
+               <pb n="8" facs="tcp:111408:6"/>
+               <head>I ſhall here adde ſome inſtances not mentioned in the former Epiſtle.</head>
+               <p>AT the beginning of Queen <hi>Elizabeths</hi> raigne the better halfe of the Proteſtant Biſhops were thoſe that but a little before had been Popiſh Prelates in Queen <hi>Maries</hi> time: it ſeemes they were very indifferent men for their Religion.</p>
+               <p>Biſhop <hi>Bancraft</hi> licenced ſome Popiſh bookes, in one of which it is maintained, that it was in the Popes power as a gift appropriate to Saint <hi>Peters</hi> Chaire, to depoſe the Kings of England.</p>
+               <p>They made a great many ignorant, and lewd unprea<g ref="char:EOLhyphen"/>ching, and ſome almoſt, or altogether unread Prieſts, or Sir <hi>Iohns.</hi> And the Biſhop of London made the Porter of his Gate, when he was olde and blinde, and ſo unſer<g ref="char:EOLhyphen"/>viceable, the Miniſter of Paddington.</p>
+               <p>The Biſhop of Saint <hi>Davids</hi> had two Wives living at once.</p>
+               <p>Many of them were common ſwearers, and one of them in print pleaded for the lawfulneſſe of ſwearing by his <hi>Faith,</hi> from Chriſts words <hi>Verily, verily I ſay unto you,</hi> which were ſaid he, as much as <hi>By my faith, by my faith I ſay unto you.</hi>
+               </p>
+               <p>They made an Idoll of the Common-prayer booke, for the Biſhop of Wincheſter in a Sermon at Saint <hi>Mary Overies</hi> blaſphemouſly ſaid, that a man might as well find fault with the Bible, as the Common-prayer booke.</p>
+               <p>The ſame Biſhop alſo in the 49. page of his Booke againſt <hi>Martin-Marprelate,</hi> ſaid, that the Creed of the Apoſtles, <hi>Athanaſius,</hi> and the Nicene contained in them many palpable lies.</p>
+               <pb n="9" facs="tcp:111408:6"/>
+               <p>They ſilenced ſome hundreds of learned and godly preachers of Chriſts Goſpell, outing them of their livings and livelihoods, to their undoing.</p>
+               <p>
+                  <hi>So much of Queen</hi> Elizabeths <hi>Biſhops.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>THe Biſhops are much more now the cauſe of all thoſe forementioned evils of Ignorance, Atheiſme, Schiſmes, Treaſons, Popery, and ungodlineſſe in the Land: Yea more, they have been the cauſe of all theſe late commotions between England and Scotland, as all men know by their labouring to bring in Popery, wit<g ref="char:EOLhyphen"/>neſſe the horrible ſuperſtition and Idolatry of our Bi<g ref="char:EOLhyphen"/>ſhops in their ſetting up Altars and Images, and bowing to them, their practiſe of Will-worſhip, and endeavour<g ref="char:EOLhyphen"/>ing that the like Superſtition and Idolatry might be pra<g ref="char:EOLhyphen"/>ctiſed all the three Lands over, moſt cruelly perſecuting all that ſhould oppoſe them: Witneſſe Maſter <hi>Smart,</hi> Maſter <hi>Burton,</hi> Doctor <hi>Baſtwicke,</hi> and Maſter <hi>Prinne,</hi> with many hundreds more. Yea, travellers doe ſay that the Pope, and the Popiſh rabble in Rome are not ſo ſu<g ref="char:EOLhyphen"/>perſtitious as they: and they are the men that have there<g ref="char:EOLhyphen"/>by cauſed the State to be ſo much impoveriſhed as it is, emptying the Kings Treaſury, [That he hath many times wanted money to uphold his Majeſties honour, and the honour of the Nation, whereas otherwiſe he would have been the greateſt monyed Prince in the Chriſtian world] cauſing thoſe unjuſt taxations of Ship-money, (to the un<g ref="char:EOLhyphen"/>doing of many) and the neceſsitated expence of all the late Subſidies, and the Pole-money, to the great weak<g ref="char:EOLhyphen"/>ning and impoveriſhing of the Common-wealth: Oh the Millions of money that they have cauſed to be drawn out of this State within this three yeares: Nay farther, it
+<pb n="10" facs="tcp:111408:7"/>will be maintained that the Hierarchy of Biſhops have been the cauſe of all that precious Chriſtian blood that hath been ſpilt in Chriſtendome for this many yeares, and of the ſpoiling of that which runs downe the Chan<g ref="char:EOLhyphen"/>nels of Germany at this time, ſo that they have made godly Maſter <hi>Tindall</hi> a Martyrs words true: Woe ſaith he is the Realme where they are of the Councell, as pro<g ref="char:EOLhyphen"/>fitable are they to the Realme with their Councell, as the Wolves unto the Sheep, or the Foxes unto the Geeſe: <hi>Obed: of the Chri: man,</hi> pag. 116. 152.</p>
+               <p>Oh England, England, caſt out the accurſed thing which elſe will certainly worke thy ruine. O our Royall King CHARLES, doe this one thing for God, purge his Houſe of this rabble of Officers which are none of his, that labour all they can to keep the doore ſhut upon Chriſt, and good men, ſo ſhalt thou bring a bleſſing upon thee and thy poſterity to the worlds end. And O yee Worthies of Iſrael, be ſtrong and couragious in this work of the Lord, and all the inhabitants of the Land, put to your helping hand, Miniſters, preach them downe, all true Chriſtians, good Proteſtants, pray them downe: And let God ariſe, and let his enemies be ſcatrered, let them be as chaſſe before the winde, and as waxe before the fire, that they may melt at the preſence of the Lord: <hi>Amen, Amen.</hi>
+               </p>
+            </div>
+            <div type="questions">
+               <pb n="11" facs="tcp:111408:7"/>
+               <head>Certaine queſtions reſolved.</head>
+               <p>
+                  <hi>Queſt.</hi> THen Sir it ſeemes you would have us bee without Church-government, and then wee ſhall have nothing but Sects and Diviſions.</p>
+               <p>
+                  <hi>Anſw.</hi> To be againſt the preſent government of Bi<g ref="char:EOLhyphen"/>ſhops, is not to be againſt Church-government, but a<g ref="char:EOLhyphen"/>gainſt Church-ruining, and ſpoiling, and againſt that which is the only let and hinderance of good Govern<g ref="char:EOLhyphen"/>ment.</p>
+               <p n="2">2. Where the falſe government of Biſhops hath been, there hath been Sects and Diviſions in all Ages, but not ſo in any other Church where there are no ſuch Biſhops.</p>
+               <p>
+                  <hi>Queſt.</hi> But the name and office of a Biſhop are ſet forth in the New Teſtament, as good things.</p>
+               <p>
+                  <hi>Anſw.</hi> It is not the name that is oppoſed (for every good Paſtor of a Congregation is a good Biſhop) but it is that evill preſent government of Dioceſan Biſhops which God never ordained, and yet is masked under that honourable name of Biſhop, like unto a Wolfe in Sheepes clothing, which we are admoniſhed by our Sa<g ref="char:EOLhyphen"/>viour to take heed of.</p>
+               <p>
+                  <hi>Queſt.</hi> What government would you have?</p>
+               <p>
+                  <hi>Anſw.</hi> I wiſh, and continually pray to God to move his ſacred Majeſty, and the honourable Parliament to la<g ref="char:EOLhyphen"/>bour to finde out and eſtabliſh the government of Jeſus
+<pb n="12" facs="tcp:111408:8"/>Chriſt, even that government which ſhall be moſt conſo<g ref="char:EOLhyphen"/>nant to the Scripture, that ſo our Iſrael may be bleſſed with the glorious preſence of Chriſt, and freed from all thoſe Sects, Diviſions, and di<g ref="char:EOLhyphen"/>ſtempers which this Land hath been tormented with. <g ref="char:dtristar">*⁎*</g>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="epigraph">
+            <pb n="13" facs="tcp:111408:8"/>
+            <q>
+               <bibl>
+                  <hi>MARKE 9.34, 35.</hi>
+               </bibl>
+               <p>But they held their peace: for by the way they had diſputed among themſelves, who ſhould be the greateſt.</p>
+               <p>And he ſate downe, and called the twelve, and ſaith unto them, if any man deſire to be firſt, the ſame ſhall be laſt of all, and ſervant of all.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>MAT. 20.25, 26, 27.</hi>
+               </bibl>
+               <p>But Ieſus called them unto him, and ſaid, Ye know that the Princes of the Gentiles exerciſe dominion over them, and they that are great, exerciſe authority upon them.</p>
+               <p>But it ſhall not be ſo among you, but whoſoever will bee great among you, let him be your Miniſter.</p>
+               <p>And whoſoever will be chiefe among you, let him be your ſervant.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1 PET. 5.3.</hi>
+               </bibl>
+               <p>Neither as being Lords over Gods heritage, but being en<g ref="char:EOLhyphen"/>ſamples to the flocke.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>The 3. Epiſtle of S. John, ver. 9, 10.</hi>
+               </bibl>
+               <p>I wrote unto the Church, but Diotrephes, who loveth to have the preheminence among them, receiveth us not.</p>
+               <p>Wherefore if I come, I will remember his deeds which hee doth, prating againſt us with malitious words, and not con<g ref="char:EOLhyphen"/>tent therewith, neither doth he himſelfe receive the brethren, and forbiddeth them that would, and caſteth them out of the Church.</p>
+            </q>
+         </div>
+      </back>
+   </text>
+</TEI>
